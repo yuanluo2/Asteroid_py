@@ -46,7 +46,7 @@ game_running = True
 show_welcome = True
 
 # font, this supports Chinese.
-font_name = os.path.join('font.ttf')
+font_name = os.path.join('simfang.ttf')
 
 # sprite groups.
 resource_sprites = pygame.sprite.Group()
